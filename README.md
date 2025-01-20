@@ -21,8 +21,9 @@ Pricing Optimization: Suggest areas where pricing models can be adjusted to maxi
 Operational Improvements: Identify regions where Uber's service could be optimized in terms of ride-time prediction and pricing consistency.
 Dataset Information
 The dataset used in this project was sourced from Kaggle and includes detailed information on Uber rides, such as location, distance, time, and fare prices. This data is vital for building a predictive model for Uber's pricing strategy.
+# How to Run
 ```bash
-How to Run
+
 Clone this repository to your local machine:
 
 
